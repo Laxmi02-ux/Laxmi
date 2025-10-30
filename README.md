@@ -11,13 +11,13 @@ With a balance of technical precision and creative analytics, I design dashboard
 ---
 
 ### 🧠 About Me  
-🎓 MBA (Data Analytics & Visualization) | Business & Insight Enthusiast  
-💼 Passionate about analytical storytelling, digital transformation, and actionable decision intelligence.  
-⚡ Exploring: NoSQL · Hadoop · Spark · Cloud Data Systems  
-📍 From: Vidisha, India  
-📩 Email: **your@email.com**  
-🔗 [Portfolio Website](https://yourusername.github.io/laxmi-portfolio)  
-🔗 [LinkedIn](https://linkedin.com/in/yourlinkedinid) | [GitHub](https://github.com/yourusername)
+Data driven mind with a creative compass.
+I decode data into visual intelligence, merging analytics, storytelling, and strategy into one narrative. As an MBA student specializing in Data Analytics and Visualization, I explore how data can influence decisions, elevate design, and build trust through clarity.
+
+Skilled in Python, SQL, Power BI, and NoSQL, with a grounding in Finance, SEO Analytics, and Business Intelligence. I enjoy designing projects that reflect both analytical depth and aesthetic coherence, where every chart, query, and pixel aligns with a purpose.
+
+Currently expanding my learning into Hadoop, Spark, and cloud ecosystems while crafting meaningful, insight driven projects.
+
 
 ---
 
@@ -70,8 +70,8 @@ Python · ML · Power BI
 ### 🧩 Let’s Connect  
 If my work resonates with you, reach out — collaboration fuels innovation.  
 🌐 [Portfolio Website]()  
-📬 [Email]()  
-💼 [LinkedIn]() 
+📬 [Email](laxmibs.sharma@gmail.com)  
+💼 [LinkedIn](linkedin.com/laxmi-sharma) 
 
 ---
 ⭐ *Crafted with precision and pastel aesthetics by Laxmi Sharma.*
