@@ -87,7 +87,3 @@ Strong foundation in Business Intelligence with exposure to Big Data and cloud e
 - **Email:** (laxmibs.sharma@gmail.com)  
 - ** This profile showcases my analytics projects, dashboards, and data workflows.
 
-
-
----
-⭐ *Crafted with precision and pastel aesthetics by Laxmi Sharma.*
