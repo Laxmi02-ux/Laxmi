@@ -1,12 +1,12 @@
-# Laxmi
+# Laxmi 
 This repository introduces me — my work, my projects, and my perspective on data.
 
-💫 Laxmi Sharma
+💫 Laxmi Sharma-
 Data Analytics & Visualization | Power BI | Python | SQL | AWS | Big Data Foundations
 Transforming intricate datasets into compelling visual stories that help businesses perceive what numbers truly whisper.
 With a balance of technical precision and creative analytics, I design dashboards that don’t just inform — they inspire action.
 
-🧠 About Me
+🧠 About Me-
 Data-driven mind with a creative compass.
 I decode data into visual intelligence, merging analytics, storytelling, and strategy into one narrative. As an MBA student specializing in Data Analytics and Visualization, I explore how data can influence decisions, elevate design, and build trust through clarity.
 
@@ -14,7 +14,7 @@ Skilled in Python, SQL, Power BI, and NoSQL, with a grounding in Finance, SEO An
 
 Currently expanding my learning into Hadoop, Spark, and cloud ecosystems while crafting meaningful, insight-driven projects.
 
-🚀 Featured Projects
+🚀 Featured Projects-
 🩺 Smart Healthcare Dashboard
 Power BI · Python · SQL · HTML · CSS · JS
 Healthcare intelligence dashboard visualizing patient trends, diagnosis ratios, and hospital KPIs using integrated SQL/NoSQL data layers to support operational decision-making.
@@ -32,7 +32,7 @@ Python · Pandas · SQL (SQLite) · Power BI
 Credit risk exploration pipeline involving data cleaning, missing value treatment, feature reduction, SQLite storage, and visualization of borrower risk patterns for decision support.
 
 🧾 Smart Résumé Analyzer
-Python · NLP · Streamlit · Power BI
+Python · Power BI
 AI-assisted résumé screening tool evaluating candidate skill alignment using keyword relevance and semantic similarity, presented through analytical dashboards.
 
 💼 Career Trend Analysis
