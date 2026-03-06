@@ -5,7 +5,6 @@ This repository introduces me — my work, my projects, and my perspective on da
 **Data Analytics & Visualization | Power BI | Python | SQL | AWS (Basics) | Big Data Foundations**
 Data Analytics & Visualization professional with hands-on experience in building end-to-end analytics solutions using Python, SQL (SQLite/MySQL), Power BI, and Excel. Skilled in data cleaning, exploratory data analysis (EDA), KPI modeling, and interactive dashboard development to transform raw data into actionable business insights.  
 
-Strong foundation in Business Intelligence with exposure to Big Data and cloud ecosystems (Hadoop, Spark, AWS basics). Passionate about creating clear, decision-oriented analytics that support business performance and operational efficiency.
 
 ## 🔧 Core Skills
 
@@ -23,10 +22,7 @@ Strong foundation in Business Intelligence with exposure to Big Data and cloud e
 - Data Cleaning & Transformation  
 - KPI Modeling & Business Reporting  
 - Data Storytelling & Dashboard Design  
-
-**Foundations:**  
-- AWS (Basics)  
-- Big Data Concepts: Hadoop, Spark  
+  
 
 ## 🚀 Featured Projects
 
@@ -78,9 +74,7 @@ Strong foundation in Business Intelligence with exposure to Big Data and cloud e
 
 - Microsoft — Extract, Transform and Load Data in Power BI  
 - IBM — Databases and SQL for Data Science  
-- Meta — Python for Data Analytics  
-- Currently learning: Hadoop, Spark, Cloud Fundamentals (AWS basics)
-
+- Meta — Python for Data Analytics  .
 ## 📫 Let’s Connect
 
 - **LinkedIn:** (laxmisharma2003)  
